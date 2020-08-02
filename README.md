@@ -11,7 +11,7 @@
     When you click on the "Compile MQL file using the script" button or press the "Ctrl + Shift + c" keyboard shortcut, 
     the script opens the "mq4/mq5" file in "MetaEditor"and presses the "Compile" button, thus MT4/MT5 auto-updates occurs.
     
-    ![](https://raw.githubusercontent.com/Egorlap/MQL-Compiler/master/media/images/Script.jpg?token=AI3X2COICQSZP62TH5SGLRK7E3PE4)
+    ![](https://github.com/Egorlap/MQL-Compiler/blob/master/media/images/Script.jpg)
 
 3.  Checking mq4 / mq5 files (checking syntax without compiling).
     When you click the "Check MQL file" button or press the "Ctrl + Shift + z" 
