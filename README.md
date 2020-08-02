@@ -4,18 +4,16 @@
 
     ![](https://github.com/Egorlap/MQL-Compiler/blob/master/media/images/Compiler.jpg)
     
-    When you press the "Compile MQL file" button or press the "Ctrl + Shift + x" 
-    key combination, the mq4 / mq5 file is compiled. (MT4 / MT5 is NOT updated).
+    (MT4 / MT5 is NOT updated).
 
 2.  Compiling mq4/mq5 files using the "AutoHotkey" script (the idea is taken from [here](https://www.mql5.com/en/blogs/post/719548/page2#comment_16501434)). 
-    When you click on the "Compile MQL file using the script" button or press the "Ctrl + Shift + c" keyboard shortcut, 
-    the script opens the "mq4/mq5" file in "MetaEditor"and presses the "Compile" button, thus MT4/MT5 auto-updates occurs.
+    The script opens the "mq4/mq5" file in "MetaEditor"and presses the "Compile" button, thus MT4/MT5 auto-updates occurs.
     
     ![](https://github.com/Egorlap/MQL-Compiler/blob/master/media/images/Script.jpg)
 
 3.  Checking mq4 / mq5 files (checking syntax without compiling).
-    When you click the "Check MQL file" button or press the "Ctrl + Shift + z" 
-    key combination, the syntax of the mq4 / mq5 file is checked.
+    
+    ![](https://github.com/Egorlap/MQL-Compiler/blob/master/media/images/Check.jpg)
 
 4.  Creation of files, configuration and settings.
 
