@@ -1,0 +1,23 @@
+{
+    "mql_compiler.configuration.DeleteLog.description": "Delete log file after compilation",
+    "mql_compiler.configuration.Metaeditor4Dir.description": "Path to \"metaeditor.exe\": MQL4",
+    "mql_compiler.configuration.Metaeditor5Dir.description": "Path to \"metaeditor.exe\": MQL5",
+    "mql_compiler.configuration.Include4Dir.description": "Path to \"Include\": MQL4",
+    "mql_compiler.configuration.Include5Dir.description": "Path to \"Include\": MQL5",
+    "mql_compiler.configuration.LogDir.description": "The name of the log file. If not completed, it will be created automatically",
+    "mql_compiler.configuration.ShowButtonCompile.description": "Show compilation button in editor title menu bar",
+    "mql_compiler.configuration.ShowButtonCheck.description": "Show check button in editor title menu bar",
+    "mql_compiler.configuration.ShowButtonScript.description": "Show compilation button via AutoHotkey script in the editor's header menu bar",
+    "mql_compiler.configuration.zbMiniME.description": "Minimize MetaEditor after launch. (AutoHotkey)",
+    "mql_compiler.configuration.zbTimetomini.description": "Time from start to minimize MetaEditor in milliseconds. (AutoHotkey)",
+    "mql_compiler.configuration.zvCloseME.description": "Close MetaEditor after compilation. (AutoHotkey)",
+    "mql_compiler.configuration.zuHelpON.description": "Open MQL4/MQL5 Help with the MQL Compiler",
+    "mql_compiler.configuration.zvHelpVal.description": "Help call parameter",
+    "mql_compiler.commands.compileFile.title": "Compile MQL file",
+    "mql_compiler.commands.checkFile.title": "Check MQL file",
+    "mql_compiler.commands.compileScript.title": "Compile MQL file using script",
+    "mql_compiler.commands.help.title": "Get Help MQL4/MQL5",
+    "mql_compiler.commands.configurations.title": "Create configuration",
+    "mql_compiler.commands.Addicon.title": "Add icons to the theme",
+    "mql_compiler.commands.Showfiles.title": "Show ex4/ex5 files"
+}
