@@ -2,7 +2,7 @@
 
 1.  Compilation of mq4 / mq5 files.
 
-    ![](https://raw.githubusercontent.com/Egorlap/MQL-Compiler/master/media/images/Compiler.jpg?token=AI3X2CPQOERNXAH55XQXWM27E3N2U)
+    ![](https://github.com/Egorlap/MQL-Compiler/blob/master/media/images/Compiler.jpg)
     
     When you press the "Compile MQL file" button or press the "Ctrl + Shift + x" 
     key combination, the mq4 / mq5 file is compiled. (MT4 / MT5 is NOT updated).
